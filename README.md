@@ -4,4 +4,4 @@
 
 - [ ] take out trash
 - [ ] prepare lunch
-- [ ] buy coffee beans
+- [ ] buy more coffee beans
